@@ -1,22 +1,22 @@
 import 'package:connectycube_sdk/connectycube_sdk.dart';
 
-const String APP_ID = "476";
-const String AUTH_KEY = "PDZjPBzAO8WPfCp";
-const String AUTH_SECRET = "6247kjxXCLRaua6";
-const String ACCOUNT_ID = "TpuBZox_HPxofh7PVZdP";
-const String DEFAULT_PASS = "xxasBUM3gQs36bhj";
+const String APP_ID = "4175";
+const String AUTH_KEY = "jVGYuS2tpZ5N82j";
+const String AUTH_SECRET = "kFVxHnkeRaAwMAN";
+const String ACCOUNT_ID = "1kQjqzhsxiY2uvDcWy1p";
+const String DEFAULT_PASS = "12345678";
 
 List<CubeUser> users = [
   CubeUser(
-    id: 1253158,
-    login: "call_user_1",
-    fullName: "User 1",
+    id: 3429694,
+    login: "josuelifter",
+    fullName: "Josue",
     password: DEFAULT_PASS,
   ),
   CubeUser(
-    id: 1253159,
-    login: "call_user_2",
-    fullName: "User 2",
+    id: 3429707,
+    login: "marco",
+    fullName: "Marco",
     password: DEFAULT_PASS,
   ),
   CubeUser(
