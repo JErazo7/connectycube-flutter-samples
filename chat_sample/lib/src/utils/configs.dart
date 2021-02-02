@@ -1,6 +1,4 @@
-
-const String APP_ID = "476";
-const String AUTH_KEY = "PDZjPBzAO8WPfCp";
-const String AUTH_SECRET = "6247kjxXCLRaua6";
-const String ACCOUNT_ID = "TpuBZox_HPxofh7PVZdP";
-const String DEFAULT_PASS = "xxasBUM3gQs36bhj";
+const String APP_ID = "4175";
+const String AUTH_KEY = "jVGYuS2tpZ5N82j";
+const String AUTH_SECRET = "kFVxHnkeRaAwMAN";
+const String ACCOUNT_ID = "1kQjqzhsxiY2uvDcWy1p";
